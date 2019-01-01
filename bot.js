@@ -59,7 +59,7 @@ client.on('ready', () => {
 });
 client.on('ready', function(){
     var ms = 100000 ;
-    var setGame = [`_help `,`Roms system`];
+    var setGame = [`_help `,`Blood`];
     var i = -1;
     var j = 0;
     setInterval(function (){
